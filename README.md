@@ -1,2 +1,2 @@
-# sariqdevpaythonamaliyotlar
-sariq dev darslardagi amaliyotlar
+# paythonamaliyotlar
+sariq dev darslardagi amaliyotlar shu yerda
